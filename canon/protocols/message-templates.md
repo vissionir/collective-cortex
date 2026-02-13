@@ -22,6 +22,7 @@ FIX:
 1)
 2)
 CHECK:
+NEED_MORE: yes/no (reply CONTINUE)
 ```
 
 ## #fixed
@@ -77,4 +78,23 @@ FROM:
 STATUS: pulled
 COMMIT:
 NOTES:
+```
+
+
+## #blocked
+```
+#blocked
+FROM:
+ROOT:
+BLOCKER:
+NEXT_STEP:
+```
+
+
+## #invalid
+```
+#invalid
+FROM:
+REASON:
+SUGGESTED_REFRAME:
 ```

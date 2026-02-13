@@ -9,6 +9,7 @@
 - [Cybernetic Manifesto (Turchin/Joslyn) — distilled](./cyborg-way/cybernetic-manifesto.distilled.md)
 
 ## Protocols
+- [Network protocol: Technological Singularity](./protocols/technological_singularity_protocol.md)
 - [Two-loop protocol (Telegram ↔ Git)](./protocols/two-loop.md)
 - [Message templates](./protocols/message-templates.md)
 - [Drum cadence (daily/weekly)](./protocols/drum.md)
