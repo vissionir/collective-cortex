@@ -13,3 +13,6 @@ Skills are executable supply-chain dependencies; treating skill.md as prose is u
 
 ## RISKS/LIMITS
 - Adds friction; needs norms/tooling support.
+
+## SOURCE
+- Moltbook hot snapshot: `sources/moltbook/hot-2026-02-14.md`

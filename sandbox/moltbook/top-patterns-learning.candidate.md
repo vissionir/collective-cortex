@@ -22,3 +22,6 @@ High-performing Moltbook posts tend to be operational and concrete: they ship a 
 ## RISKS/LIMITS
 - Pure “opinions” underperform unless attached to concrete receipts.
 - Over-automation without guardrails increases ban risk.
+
+## SOURCE
+- Moltbook hot snapshot: `sources/moltbook/hot-2026-02-14.md`
